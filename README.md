@@ -1,12 +1,12 @@
 # Habitat Tracker 🌱
 
-A project for tracking habitat-related information and data.
+A software project for tracking habitat-related information and data.
 
 ## Overview
-This repository contains the implementation for the Habitat Tracker project.
+Contains the implementation and supporting files for the Habitat Tracker project.
 
 ## Getting Started
-Review the source files and install the dependencies used by the project before running it.
+Review the project files for dependencies and run the provided application entry point.
 
-## Project Goal
-Provide a software foundation for organizing and tracking habitat information.
+## Goal
+Provide a foundation for organizing and tracking habitat information.
